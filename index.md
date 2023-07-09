@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Classification Projects 
 
-[Project 1 Title](/sample_page)
+[Health Care Worker Attrition]([/sample_page](https://github.com/schneirc73/Healthcare_Attrition_Prediction))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
