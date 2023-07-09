@@ -6,7 +6,7 @@
 
 [Health Care Worker Attrition](https://github.com/schneirc73/Healthcare_Attrition_Prediction)
 
-<img src="images/H_Turnover_Classifier.png.png?raw=true"/>
+<img src="images/H_Turnover_Classifier.png?raw=true"/>
 <img src="images/HTurnover_ROC.png?raw=true"/>
 <img src="images/HTurnover_Feature.png?raw=true"/>
 
