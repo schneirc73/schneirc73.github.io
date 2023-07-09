@@ -4,9 +4,12 @@
 
 ### Classification Projects 
 
-[Health Care Worker Attrition]([/sample_page](https://github.com/schneirc73/Healthcare_Attrition_Prediction))
+[Health Care Worker Attrition]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+This classifier is able to predicit if a healthcare worker quit their current job.  A healthcare provider can tweak this project to determine if an employee(s) are in the quiting threshold and take appropriate action to mitgate the risk of losing an employee(s).
+
+[https://github.com/schneirc73/Healthcare_Attrition_Prediction]
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
