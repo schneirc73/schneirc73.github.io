@@ -6,20 +6,17 @@
 
 [Health Care Worker Attrition](https://github.com/schneirc73/Healthcare_Attrition_Prediction)
 
-<img src="images/H_Turnover_Classifier.png?raw=true"/>
-<img src="images/HTurnover_ROC.png?raw=true"/>
+
 <img src="images/HTurnover_Feature.png?raw=true"/>
+<img src="images/H_Turnover_Classifier.png?raw=true"/>
 
-This classifier is able to predicit if a healthcare worker quit their current job.  A healthcare provider can tweak this project to determine if an employee(s) are in the quiting threshold and take appropriate action to mitgate the risk of losing an employee(s).
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This classifier is able to predicit if a healthcare worker quit their current job.  A healthcare provider can tweak this project to determine if an employee(s) are in the quiting threshold and take appropriate action to mitgate the risk of losing an employee(s).  Currently the Ada Boost Classifier used performed with an accuracy of 94% on the test data.
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Fish Image Classification](https://github.com/schneirc73/Fish_Classifier_POC)
+<img src="images/Fish_Training.png?raw=true"/>
 
+This classifier is able to predict what type of fish is being shown.  The classifier has 9 distinct categories with a 95% accuracy score on the test data by utilizing a convolutional neural network.
 ---
 
 ### Category Name 2
