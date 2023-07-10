@@ -20,6 +20,14 @@ This classifier is able to predicit if a healthcare worker quit their current jo
 This classifier is able to predict what type of fish is being shown.  The classifier has 9 distinct categories with a 95% accuracy score on the test data by utilizing a convolutional neural network.
 
 ---
+[Stroke Prediction](https://github.com/schneirc73/Stroke_Prediction_Python/tree/main)
+
+<img src="images/Stroke Status.png?raw=true"/>
+<img src="images/Stroke_Confusion.png?raw=true"/>
+
+This classifier is able to predict if a patient is likley to experience a stroke based current attributes.  Using a grid searched SVM classifier the model performed with 95.2% accurarcy on the test data.
+
+---
 
 ### Certificates
 
