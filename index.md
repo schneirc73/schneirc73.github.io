@@ -14,18 +14,17 @@ This classifier is able to predicit if a healthcare worker quit their current jo
 
 ---
 [Fish Image Classification](https://github.com/schneirc73/Fish_Classifier_POC)
+
 <img src="images/Fish_Training.png?raw=true"/>
 
 This classifier is able to predict what type of fish is being shown.  The classifier has 9 distinct categories with a 95% accuracy score on the test data by utilizing a convolutional neural network.
+
 ---
 
-### Category Name 2
+### Certificates
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [IBM Data Science Certificate](https://github.com/schneirc73/IBM_DS_Capstone/blob/main/Coursera%20SDG7RYZ2886S.pdf)
+
 
 ---
 
